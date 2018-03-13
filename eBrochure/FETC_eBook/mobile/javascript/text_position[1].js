@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"LEADING RFID-BASED TOTAL SOLUTION",left:0.393182,top:0.380682,width:0.536543,height:0.024510},{word:"SERVICE PROVIDER IN ETC",left:0.393182,top:0.417454,width:0.350780,height:0.024510},{word:"AND SMART CITY",left:0.393182,top:0.454225,width:0.236823,height:0.024511}]};
